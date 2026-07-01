@@ -1,0 +1,5 @@
+brave-bin
+gns3-gui-2
+m64py
+yay
+yay-debug
