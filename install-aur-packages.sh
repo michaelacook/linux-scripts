@@ -4,7 +4,7 @@ while IFS= read -r pkg; do
     yay -S \
         --noconfirm \
         --needed \
-        --nocleanmenu \
+        --answerclean None \
         --nodiffmenu \
         --noeditmenu \
         --noupgrademenu \
